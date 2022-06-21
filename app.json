@@ -1,6 +1,6 @@
 ﻿{
-    "name": "你的项目名",
-    "description": "你的项目名",
+    "name": "redtea",
+    "description": "redtea",
     "keywords": ["vm"],
     "env": {
         "AA": {
